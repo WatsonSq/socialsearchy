@@ -1,4 +1,4 @@
-_# Socialsearchy 
+# Socialsearchy 
 
 This Python program allows users to search for customer support queries across multiple social media platforms (Twitter, Instagram, and TikTok) and generates responses using OpenAI's ChatGPT model.
 
