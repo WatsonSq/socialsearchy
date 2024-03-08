@@ -13,7 +13,6 @@ Before running the program, ensure you have the following:
 
 1. Clone the repository to your local machine:
 
-```bash
 git clone https://github.com/yourusername/social-media-customer-support.git
 Install the required Python dependencies:
 bash
@@ -26,8 +25,6 @@ Usage
 Open a terminal and navigate to the directory where you cloned the repository.
 
 Run the program by executing the following command:
-
-bash
 
 python main.py
 Follow the on-screen instructions to enter your customer support query.
