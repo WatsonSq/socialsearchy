@@ -13,7 +13,7 @@ Before running the program, ensure you have the following:
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/yourusername/social-media-customer-support.git
+
 Install the required Python dependencies:
 bash
 
